@@ -4,7 +4,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yerenmao&theme=dark&show_icons=true&border_radius=10%&line_height=27" style="margin-bottom: 20px;"/>
 </a>
 <a href="https://github.com/Yerenmao">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yerenmao&theme=dark&border_radius=10%&langs_count=3" style="max-width: 100%;margin-bottom: 20px;"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yerenmao&theme=dark&border_radius=10%&langs_count=10&layout=compact" style="max-width: 100%;margin-bottom: 20px;"/>
 
 
 
