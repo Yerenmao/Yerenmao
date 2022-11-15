@@ -11,7 +11,9 @@
 
 ## My Repos
   
-### Game Made By Me
+<a href="https://github.com/Yerenmao/pd1_problems">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yerenmao&repo=pd1_problems&theme=dark&border_radius=10%" style="max-width: 100%;margin-bottom: 10px;"/>
+</a>
   
 <a href="https://github.com/Yerenmao/pd2_Halo_of_Hero">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yerenmao&repo=pd2_Halo_of_Hero&theme=dark&border_radius=10%" style="max-width: 100%;margin-bottom: 10px;"/>
