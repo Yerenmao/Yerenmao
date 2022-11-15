@@ -1,8 +1,11 @@
 ### Hi there 👋
-<!--![Yerenmao's github stats](https://github-readme-stats.vercel.app/api?username=Yerenmao&count_private=true&show_icons=true&include_all_commits=true&theme=radical) 
--->
 
-![Yerenmao's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yerenmao&layout=compact&theme=radical&exclude_repo=CTF_storage&hide=CSS,Vim%20script,Dockerfile)
+<a href="https://github.com/Yerenmao">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yerenmao&theme=dark&show_icons=true&border_radius=10%&line_height=27" style="margin-bottom: 20px;"/>
+</a>
+<a href="https://github.com/Yerenmao">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yerenmao&theme=dark&border_radius=10%&langs_count=3" style="max-width: 100%;margin-bottom: 20px;"/>
+
 
 
 
