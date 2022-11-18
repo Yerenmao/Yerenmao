@@ -18,6 +18,10 @@
 <a href="https://github.com/Yerenmao/pd2_Halo_of_Hero">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yerenmao&repo=pd2_Halo_of_Hero&theme=radical&border_radius=10%" style="max-width: 100%;margin-bottom: 10px;"/>
 </a>
+  
+<a href="https://github.com/Yerenmao/ic_design">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yerenmao&repo=ic_design&theme=radical&border_radius=10%" style="max-width: 100%;margin-bottom: 10px;"/>
+</a>
 
 
 
